@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/ui"/>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>EXRHeader.qml</file>
+        <file>EXRText.qml</file>
+        <file>EXRJs.js</file>
+        <file>EXRTimeSelecter.qml</file>
+        <file>EXRNationSelecter.qml</file>
+        <file>EXRBackRect.qml</file>
+        <file>EXRPrompt.qml</file>
+        <file>EXRInfo.qml</file>
+    </qresource>
+</RCC>
